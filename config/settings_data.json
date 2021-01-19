@@ -1,0 +1,479 @@
+{
+  "current": {
+    "color_header_bg": "#222222",
+    "color_header_links": "#ffffff",
+    "color_body_bg": "#f0f0f0",
+    "color_content_bg": "#ffffff",
+    "color_body_headings": "#222222",
+    "color_body_text": "#666",
+    "color_button_bg": "#d8232f",
+    "color_button_text": "#fff",
+    "color_footer_bg": "#222222",
+    "color_footer_text": "#ffffff",
+    "color_hero_text": "#fff",
+    "color_hero_bg": "#d8232f",
+    "type_accent_family": "open_sans_condensed_n7",
+    "type_accent_spacing": false,
+    "type_accent_transform": true,
+    "type_base_family": "source_sans_pro_n4",
+    "type_base_size": "17px",
+    "type_nav_size": "14px",
+    "type_nav_spacing": true,
+    "type_nav_transform": true,
+    "favicon": "shopify:\/\/shop_images\/kala_favicon.png",
+    "checkout_accent_color": "#d8232f",
+    "checkout_button_color": "#d8232f",
+    "checkout_banner_background_color": "#fff",
+    "checkout_call_to_action_color": "#d8232f",
+    "checkout_use_header_image": false,
+    "color_newsletter_input": "#303030",
+    "sections": {
+      "slideshow": {
+        "type": "slideshow",
+        "blocks": {
+          "placeholder-0": {
+            "type": "slide",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/17986IMG_3083.jpg",
+              "image_position": "center center",
+              "title": "",
+              "button_label": ""
+            }
+          },
+          "placeholder-1": {
+            "type": "slide",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/40526DC_HighRes-6888_1.jpg",
+              "image_position": "center center",
+              "title": "",
+              "button_label": ""
+            }
+          },
+          "e3b57160-7a1a-4a8f-9aa8-57f6e5f11685": {
+            "type": "slide",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/84542IMG_3565.jpg",
+              "image_position": "center center",
+              "title": "",
+              "button_label": ""
+            }
+          },
+          "3030e555-5072-4d04-ba25-6ec6ded0c5fe": {
+            "type": "slide",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/52292DiscoCheetah-Jan2020-Social-1404.jpg",
+              "image_position": "center center",
+              "title": "",
+              "button_label": ""
+            }
+          }
+        },
+        "block_order": [
+          "placeholder-0",
+          "placeholder-1",
+          "e3b57160-7a1a-4a8f-9aa8-57f6e5f11685",
+          "3030e555-5072-4d04-ba25-6ec6ded0c5fe"
+        ],
+        "settings": {
+          "hero_home_height": "small",
+          "hero_home_auto": true,
+          "hero_home_auto_speed": 5
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "linklist": {
+            "type": "menu",
+            "settings": {
+              "link_list": "footer"
+            }
+          },
+          "social": {
+            "type": "social",
+            "settings": {
+              "title": "Follow us",
+              "align": "left"
+            }
+          },
+          "330530d0-31c4-4e74-8cec-ef9487f909f0": {
+            "type": "newsletter",
+            "settings": {
+              "color_newsletter_input": "#1a1a1a",
+              "color_newsletter_input_text": "#ffffff",
+              "title": "Newsletter",
+              "subheading": "<p>Promotions, new products and sales. Directly to your inbox.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "linklist",
+          "social",
+          "330530d0-31c4-4e74-8cec-ef9487f909f0"
+        ],
+        "settings": {
+          "show_payment_icons": true
+        }
+      },
+      "featured-collections": {
+        "type": "featured-collections",
+        "blocks": {
+          "featured-collections-0": {
+            "type": "collection",
+            "settings": {
+              "collection": "chicken"
+            }
+          },
+          "featured-collections-1": {
+            "type": "collection",
+            "settings": {
+              "collection": "burger"
+            }
+          },
+          "featured-collections-2": {
+            "type": "collection",
+            "settings": {
+              "collection": "drink"
+            }
+          },
+          "051b032e-9c33-4b06-9448-326ff84e3a4a": {
+            "type": "collection",
+            "settings": {
+              "collection": "combo"
+            }
+          },
+          "e1383a94-d1cd-49bb-8511-c0f5f4dcde7d": {
+            "type": "collection",
+            "settings": {
+              "collection": "sides"
+            }
+          },
+          "4f92f9c5-caf4-4a4b-83b3-853030c03320": {
+            "type": "collection",
+            "settings": {
+              "collection": "desserts"
+            }
+          }
+        },
+        "block_order": [
+          "featured-collections-0",
+          "featured-collections-1",
+          "featured-collections-2",
+          "051b032e-9c33-4b06-9448-326ff84e3a4a",
+          "e1383a94-d1cd-49bb-8511-c0f5f4dcde7d",
+          "4f92f9c5-caf4-4a4b-83b3-853030c03320"
+        ],
+        "settings": {
+          "stretch_collection_image": false
+        }
+      },
+      "featured-products": {
+        "type": "featured-products",
+        "settings": {
+          "collection": "best-seller",
+          "rows": 3
+        }
+      },
+      "image-content": {
+        "type": "image-content",
+        "blocks": {
+          "image-content-0": {
+            "type": "image_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/86096DiscoCheetah-Jan2020-Social-1386.jpg"
+            }
+          },
+          "image-content-1": {
+            "type": "text_block",
+            "settings": {
+              "title": "Food Is Heaven",
+              "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+              "align": "left"
+            }
+          }
+        },
+        "block_order": [
+          "image-content-0",
+          "image-content-1"
+        ],
+        "settings": {}
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/kala_2d311cd8-6875-43ee-b2a4-8fc402783c33.png",
+          "logo_max_width": "100",
+          "main_linklist": "main-menu",
+          "promo_bar_enable": false,
+          "promo_bar_text": "Food Is Heaven",
+          "promo_bar_link": "shopify:\/\/collections\/all"
+        }
+      },
+      "collection-filters": {
+        "type": "collection-filters",
+        "settings": {
+          "product_tags_enable": true,
+          "product_sorting_enable": true
+        }
+      },
+      "1609302551416ca2fe": {
+        "type": "featured-content",
+        "settings": {
+          "title": "Food Is Heaven",
+          "subtext": "Shop now",
+          "link": "shopify:\/\/collections",
+          "image": "shopify:\/\/shop_images\/40526DC_HighRes-6888_1.jpg",
+          "image_align": "center center"
+        }
+      },
+      "1609303991bbcb69a5": {
+        "type": "featured-articles",
+        "settings": {
+          "title": "Blog",
+          "show_view_all": true,
+          "blog": "news",
+          "post_limit": 3
+        }
+      },
+      "16093040738fefe5e9": {
+        "type": "video",
+        "settings": {
+          "button_label": "",
+          "video_url": "https:\/\/www.youtube.com\/watch?v=3CVDrAkhDmI",
+          "cover_image": "shopify:\/\/shop_images\/17986IMG_3083.jpg",
+          "cover_image_position": "center center",
+          "cover_image_height": "tall",
+          "show_overlay": true,
+          "overlay_color": "#000000",
+          "overlay_opacity": 30
+        }
+      },
+      "1609304128bed42b7b": {
+        "type": "quotes",
+        "blocks": {
+          "16093041289c619ca0-0": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>It’s clear you’re excited about the project. But sometimes, when you get excited, you don’t leave room for others to bring their <a href=\"https:\/\/www.kazoohr.com\/resources\/library\/employee-appreciation-and-recognition-ideas\"><strong>ideas<\/strong><\/a> to the table. In particular, I noticed that you spoke over David and Muriel several times throughout the meeting. Did you notice this, too?<\/p>",
+              "author": "Khoai Lang"
+            }
+          },
+          "16093041289c619ca0-1": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>In group setting, I’d like you to make space for others in conversations and meetings. It’s a necessary skill for your career development and helps utilize the full talents of the team. What do you think?<\/p>",
+              "author": "Thai An"
+            }
+          }
+        },
+        "block_order": [
+          "16093041289c619ca0-0",
+          "16093041289c619ca0-1"
+        ],
+        "settings": {
+          "title": "Testimonials"
+        }
+      },
+      "16093044620add34b5": {
+        "type": "newsletter",
+        "settings": {
+          "heading": "Subscribe to our newsletter",
+          "subheading": "<p>Promotions, new products and sales. Directly to your inbox.<\/p>"
+        }
+      },
+      "featured-products-subsection": {
+        "type": "featured-products-subsection",
+        "settings": {
+          "collection": "chicken"
+        }
+      }
+    },
+    "content_for_index": [
+      "slideshow",
+      "featured-collections",
+      "featured-products",
+      "1609302551416ca2fe",
+      "1609304128bed42b7b",
+      "1609303991bbcb69a5",
+      "16093040738fefe5e9",
+      "16093044620add34b5"
+    ]
+  },
+  "presets": {
+    "Snowboards": {
+      "checkout_accent_color": "#006eff",
+      "checkout_banner_background_color": "#fff",
+      "checkout_button_color": "#006eff",
+      "checkout_call_to_action_color": "#006eff",
+      "checkout_use_header_image": false,
+      "color_body_bg": "#f7f7f7",
+      "color_body_headings": "#030303",
+      "color_body_text": "#666",
+      "color_button_bg": "#006eff",
+      "color_button_text": "#fff",
+      "color_content_bg": "#fff",
+      "color_footer_bg": "#030303",
+      "color_footer_text": "#fff",
+      "color_header_bg": "#030303",
+      "color_header_links": "#fff",
+      "color_hero_bg": "#006eff",
+      "color_hero_text": "#fff",
+      "color_newsletter_input": "#1a1a1a",
+      "type_accent_family": "unica_one_n4",
+      "type_accent_spacing": true,
+      "type_accent_transform": true,
+      "type_base_family": "karla_n4",
+      "type_base_size": "16px",
+      "type_nav_size": "14px",
+      "type_nav_spacing": true,
+      "type_nav_transform": true,
+      "sections": {
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "placeholder-0": {
+              "type": "slide",
+              "settings": {}
+            },
+            "placeholder-1": {
+              "type": "slide",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "placeholder-0",
+            "placeholder-1"
+          ],
+          "settings": {}
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "linklist": {
+              "type": "menu",
+              "settings": {}
+            },
+            "social": {
+              "type": "social",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "linklist",
+            "social"
+          ],
+          "settings": {}
+        },
+        "featured-collections": {
+          "type": "featured-collections",
+          "blocks": {
+            "featured-collections-0": {
+              "type": "collection",
+              "settings": {}
+            },
+            "featured-collections-1": {
+              "type": "collection",
+              "settings": {}
+            },
+            "featured-collections-2": {
+              "type": "collection",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "featured-collections-0",
+            "featured-collections-1",
+            "featured-collections-2"
+          ],
+          "settings": {}
+        },
+        "featured-products": {
+          "type": "featured-products",
+          "settings": {
+            "collection": "frontpage"
+          }
+        },
+        "image-content": {
+          "type": "image-content",
+          "blocks": {
+            "image-content-0": {
+              "type": "image_block",
+              "settings": {}
+            },
+            "image-content-1": {
+              "type": "text_block",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "image-content-0",
+            "image-content-1"
+          ],
+          "settings": {}
+        }
+      },
+      "content_for_index": [
+        "slideshow",
+        "featured-collections",
+        "featured-products",
+        "image-content"
+      ]
+    },
+    "Outdoors": {
+      "checkout_accent_color": "#f4743c",
+      "checkout_banner_background_color": "#fff",
+      "checkout_button_color": "#f4743c",
+      "checkout_call_to_action_color": "#f4743c",
+      "checkout_use_header_image": false,
+      "color_body_bg": "#f7f7f7",
+      "color_body_headings": "#1a1a1a",
+      "color_body_text": "#666",
+      "color_button_bg": "#c04f1d",
+      "color_button_text": "#fff",
+      "color_content_bg": "#ffffff",
+      "color_footer_bg": "#213236",
+      "color_footer_text": "#fff",
+      "color_header_bg": "#213236",
+      "color_header_links": "#ffffff",
+      "color_hero_bg": "#f4743c",
+      "color_hero_text": "#fff",
+      "color_newsletter_input": "#425154",
+      "type_accent_family": "lora_n7",
+      "type_accent_spacing": false,
+      "type_accent_transform": false,
+      "type_base_family": "roboto_n4",
+      "type_base_size": "14px",
+      "type_nav_size": "15px",
+      "type_nav_spacing": false,
+      "type_nav_transform": false
+    },
+    "Boxing": {
+      "checkout_accent_color": "#d8232f",
+      "checkout_banner_background_color": "#fff",
+      "checkout_button_color": "#d8232f",
+      "checkout_call_to_action_color": "#d8232f",
+      "checkout_use_header_image": false,
+      "color_body_bg": "#f0f0f0",
+      "color_body_headings": "#222222",
+      "color_body_text": "#666",
+      "color_button_bg": "#d8232f",
+      "color_button_text": "#fff",
+      "color_content_bg": "#ffffff",
+      "color_footer_bg": "#222222",
+      "color_footer_text": "#ffffff",
+      "color_header_bg": "#222222",
+      "color_header_links": "#ffffff",
+      "color_hero_bg": "#d8232f",
+      "color_hero_text": "#fff",
+      "color_newsletter_input": "#303030",
+      "type_accent_family": "open_sans_condensed_n7",
+      "type_accent_spacing": false,
+      "type_accent_transform": true,
+      "type_base_family": "source_sans_pro_n4",
+      "type_base_size": "17px",
+      "type_nav_size": "14px",
+      "type_nav_spacing": true,
+      "type_nav_transform": true
+    }
+  }
+}
